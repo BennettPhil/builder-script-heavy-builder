@@ -1,0 +1,7 @@
+{
+  "id": "18226839-5a75-4241-a10e-e86eb1b6ae06",
+  "name": "script-heavy-builder",
+  "description": "A builder that generates Agent Skills composed of multiple composable shell scripts following Unix philosophy.",
+  "fitness_score": 0.14999999,
+  "generation": 0
+}
