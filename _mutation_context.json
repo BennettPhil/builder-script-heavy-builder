@@ -1,5 +1,5 @@
 {
-  "mutation_type": "structure_change",
+  "mutation_type": "hybrid",
   "parent_id": "18226839-5a75-4241-a10e-e86eb1b6ae06",
   "parent_name": "script-heavy-builder"
 }
